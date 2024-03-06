@@ -25,5 +25,7 @@ Copie y pegue los archivos txt de preguntas y respuestas y proporcioneles los pe
 Otro error posible es que directamente no compile el archivo asm del juego.
 Para solucionar esto, vaya al archivo asm y proporcionele permisos para todo. Si es necesario, también al archivo compilado.
 
+También, al principio, cuando indique su nombre, presione ENTER 2 veces y cuando presione _"F"_ para continuar tenga en cuenta de no tener activado el Bloq Mayus.
+
 ## Para más información
 Se deja el link a un informe realizado en ese momento para la entrega [aquí](https://drive.google.com/file/d/141LoRniy6R5gSztsjEHf_SHs6JXYIC0D/view?usp=drive_link).
